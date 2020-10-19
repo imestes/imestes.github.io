@@ -1,1 +1,34 @@
+h1 {
+    color: rgb(37, 37, 37);
+}
 
+p {
+    color: rgb(37, 37, 37);
+}
+
+body {
+    background-image: url("openNotebook.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: aliceblue;
+}
+
+a:link {
+    color:rgb(151, 151, 151);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(151, 151, 151);
+    text-decoration: none;
+}
+
+a:hover {
+    color:  rgb(97, 97, 97);
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(151, 151, 151);
+    text-decoration: underline;
+}
